@@ -36,6 +36,84 @@ graph TD
     D --> E[实战项目]
     E --> F[进阶与优化]
 ```
+---
+
+## 学习资料
+
+<h2 id="nav_6">📙 书籍</h2>
+
+No.|book nam|author
+:------- | :--------------- | :------------
+1|FFmpeg从入门到精通|刘歧, 赵文杰
+2|视频图像处理与性能优化|梁军, 贾海鹏
+3|数字图像与视频处理|卢官明, 唐贵进, 崔子冠
+4|数字音视频技术及应用|陈光军
+5|音视频开发进阶指南：基于Android与iOS平台的实践|展晓凯, 魏晓红
+6|视频编码全角度详解：AVS_China、H.264_MPEG-4_PART10、HEVC、VP6、DIRAC、VC-1|刘歧, 赵文杰
+7|FFMPEG - From Zero to Hero|Nick, Ferrando|
+8|FFmpeg Basics 2012|Frantisek Korbel|
+9|Handbook on SDP for Multimedia Session Negotiations SIP and WebRTC IP Telephony |Roy, Radhika Ranjan|
+10|Learning WebRTC|Dan Ristic|
+11|Real-Time Communication with WebRTC |Salvatore Loreto, Simon Pietro Romano|
+
+
+<h2 id="nav_8">📰 文章</h2>
+
+No.|article
+:------- | :--------------- 
+1|[WebRTC 发送方码率预估实现解析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/001-WebRTC%20发送方码率预估实现解析.md)
+2|[码率控制基本概念](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/002-码率控制基本概念.md)
+3|[Speex回声消除代码分析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/003-Speex回声消除代码分析.md)
+4|[房间声学原理与Schroeder混响算法实现](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/004-房间声学原理与Schroeder混响算法实现.md)
+5|[H264系列--压缩编码技术](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/005-H264系列--压缩编码技术.md)
+6|[RTSP 媒体协议流的录制方案及其覆盖策略详解](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/006-RTSP%20媒体协议流的录制方案及其覆盖策略详解.md)
+7|[建立连接之ICE框架](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/007-webrtc建立连接之ICE框架.md)
+8|[流媒体协议介绍（rtp/rtcp/rtsp/rtmp/mms/hls）](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/008-流媒体协议介绍.md)
+9|[音视频同步原理及实现](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/009-音视频同步原理及实现.md)
+10|[直播概念和流程框架](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/010-直播概念和流程框架.md)
+11|[CDN在直播中的运用](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/011-CDN在直播中的运用.md)
+12|[常见音视频编码格式](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/012-常见音视频编码格式.md)
+13|[H.264官方软件JM源代码分析-编码器lencod](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/013-H.264官方软件JM源代码分析-编码器lencod.md)
+14|[H.264官方软件JM源代码分析-解码器ldecod](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/014-H.264官方软件JM源代码分析-解码器ldecod.md)
+15|[Android 音视频技术](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/015-Android%20音视频技术.md)
+16|[Web前端WebRTC攻略-媒体协商与SDP简析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/016-Web前端WebRTC攻略-媒体协商与SDP简析.md)
+17|[基于FFmpeg的AVfilter的例子-纯净版](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/017-基于FFmpeg的AVfilter的例子-纯净版.md)
+18|[WebRTC 传输安全机制第二话：深入显出 SRTP 协议](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/018-WebRTC%20传输安全机制第二话：深入显出%20SRTP%20协议.md)
+19|[WebRTC能给我带来什么？](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/019-WebRTC能给我带来什么？.md)
+20|[视音频数据处理：RGB、YUV像素数据处理](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/020-视音频数据处理：RGB、YUV像素数据处理.md)
+21|[视音频数据处理：PCM音频采样数据处理](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/021-视音频数据处理：PCM音频采样数据处理.md)
+22|[视音频数据处理：H.264视频码流解析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/022-视音频数据处理：H.264视频码流解析.md)
+23|[视音频数据处理：AAC音频码流解析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/023-视音频数据处理：AAC音频码流解析.md)
+24|[视音频数据处理：FLV封装格式解析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/024-视音频数据处理：FLV封装格式解析.md)
+25|[视音频数据处理：UDP-RTP协议解析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/025-视音频数据处理：UDP-RTP协议解析.md)
+26|[如何生成mp4文件](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/026-如何生成mp4文件.md)
+27|[ffmpeg滤镜的基本使用](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/027-ffmpeg滤镜的基本使用.md)
+28|[webRTC是如何实现音视频的录制](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/028-webRTC是如何实现音视频的录制.md)
+29|[音视频同步算法](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/029-音视频同步算法.md)
+30|[房间声学原理与Schroeder混响算法实现](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/030-房间声学原理与Schroeder混响算法实现.md)
+31|[一个频域语音降噪算法实现及改进方法](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/031-一个频域语音降噪算法实现及改进方法.md)
+32|[HEVC官方软件HM源代码分析-编码器TAppEncoder](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/032-HEVC官方软件HM源代码分析-编码器TAppEncoder.md)
+33|[HEVC官方软件HM源代码分析-解码器TAppDecoder](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/033-HEVC官方软件HM源代码分析-解码器TAppDecoder.md)
+34|[音视频编解码常用知识点](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/034-音视频编解码常用知识点.md)
+35|[微信小程序集成实时音视频通话功能](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/035-微信小程序集成实时音视频通话功能.md)
+36|[视音频编解码技术零基础学习方法](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/036-视音频编解码技术零基础学习方法.md)
+37|[RTSP协议学习](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/037-RTSP协议学习.md)
+38|[HEVC码流分析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/038-HEVC码流分析.md)
+39|[H.264简单码流分析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/039-H.264简单码流分析.md)
+40|[MPEG2简单码流分析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/040-MPEG2简单码流分析.md)
+41|[视频码流分析工具](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/041-视频码流分析工具.md)
+42|[H.264分析器](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/042-H.264分析器.md)
+43|[FFmpeg架构之IO模块分析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/043-FFmpeg架构之IO模块分析.md)
+44|[(Video and Audio Data Processing)UDP-RTP协议解析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/044-[Video%20and%20Audio%20Data%20Processing]%20UDP-RTP协议解析.md)
+45|[RTSP协议实例分析](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/045-RTSP协议实例分析.md)
+46|[RTSP协议之TCP或UDP问题](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/046-RTSP协议之TCP或UDP问题.md)
+47|[ffplay工具命令使用技巧](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/047-ffplay工具命令使用技巧.md)
+48|[VLC RTSP网络串流播放失败](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/048-VLC%20RTSP网络串流播放失败.md)
+49|[RTMP协议详解](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/049-RTMP协议详解.md)
+50|[STUN 原理理解](https://github.com/0voice/awesome_audio_video_learning/blob/main/article/050-STUN%20原理理解.md)
+
+<br/>
+
 
 ---
 
