@@ -1,4 +1,4 @@
-<h1 align="center">🎬 音视频开发学习路线 </h1>
+<h1 align="center">🎬 音视频开发学习 </h1>
 
 <p align="center">
   🌟 本仓库旨在为学习 音视频开发 的同学提供一条系统化的学习路线
@@ -7,6 +7,8 @@
 <p align="center">
   💡 涵盖从基础知识到实战项目的资料与示例，帮助你快速入门并逐步进阶  
 </p>
+
+<img width="1920" height="500" alt="1" src="https://github.com/user-attachments/assets/d380d758-0517-4ef1-8e3c-4415d317a3b9" />
 
 ---
 
