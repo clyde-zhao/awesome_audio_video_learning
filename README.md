@@ -1680,3 +1680,6 @@ ffmpeg -i input.mp4 -vf "eq=contrast=1.5:saturation=1.2" output.mp4
 
 - 内存泄漏：在长时间运行的流媒体应用中，需要使用内存分析工具（如 Valgrind 或 Android Studio Profiler）来排查内存泄漏问题。
 
+---
+## 免责声明
+本项目内容均来源于互联网公开资料，仅供学习交流使用，版权归原作者所有。
