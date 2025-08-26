@@ -8,7 +8,6 @@
   💡 涵盖从基础知识到实战项目的资料与示例，帮助你快速入门并逐步进阶  
 </p>
 
-<img width="1920" height="500" alt="1" src="https://github.com/user-attachments/assets/d380d758-0517-4ef1-8e3c-4415d317a3b9" />
 
 ---
 
