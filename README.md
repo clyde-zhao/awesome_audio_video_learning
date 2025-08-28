@@ -574,7 +574,7 @@ Android OpenGL Camera 2.0 实现 30 种滤镜和抖音特效。
 
 ---
 
-### 面试题
+### [面试题(对应题目若跳转失败请点击这里总链接)](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E9%9D%A2%E8%AF%95%E9%A2%98%E7%A4%BA%E4%BE%8B)
 
 [1. 为什么巨大的原始视频可以编码成很小的视频呢? 这其中的技术是什么呢?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%981)
 
