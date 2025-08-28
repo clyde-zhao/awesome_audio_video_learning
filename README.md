@@ -580,121 +580,121 @@ Android OpenGL Camera 2.0 实现 30 种滤镜和抖音特效。
 
 [2. AAC 和 PCM 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%982)
 
-[3. H.264 存储的两个形态分别是什么?](https://www.google.com/search?q=https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25983)
+[3. H.264 存储的两个形态分别是什么?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%983)
 
-[4. 视频压缩的原理?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25984)
+[4. 视频压缩的原理?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%984)
 
-[5. H.264 的压缩技术主要包含哪些方面?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25985)
+[5. H.264 的压缩技术主要包含哪些方面?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%985)
 
-[6. 视频的清晰度由哪些因素决定?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25986)
+[6. 视频的清晰度由哪些因素决定?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%986)
 
-[7. 视频的码率如何计算?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25987)
+[7. 视频的码率如何计算?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%987)
 
-[8. YUV 与 RGB 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25988)
+[8. YUV 与 RGB 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%988)
 
-[9. YUV420 和 YUV422 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%25989)
+[9. YUV420 和 YUV422 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%989)
 
-[10. 常见的音视频封装格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259810)
+[10. 常见的音视频封装格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9810)
 
-[11. FLV 文件结构?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259811)
+[11. FLV 文件结构?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9811)
 
-[12. TS 文件特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259812)
+[12. TS 文件特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9812)
 
-[13. MP4 文件的结构?](https://www.google.com/search?q=https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259813)
+[13. MP4 文件的结构?](https://www.google.com/search?q=https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9813)
 
-[14. FLV、MP4、TS 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259814)
+[14. FLV、MP4、TS 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9814)
 
-[15. 直播推流、拉流过程?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259815)
+[15. 直播推流、拉流过程?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9815)
 
-[16. 推流失败可能的原因?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259816)
+[16. 推流失败可能的原因?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9816)
 
-[17. 常见的流媒体传输协议?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259817)
+[17. 常见的流媒体传输协议?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9817)
 
-[18. RTMP 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259818)
+[18. RTMP 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9818)
 
-[19. HLS 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259819)
+[19. HLS 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9819)
 
-[20. HTTP-FLV 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259820)
+[20. HTTP-FLV 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9820)
 
-[21. WebRTC 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259821)
+[21. WebRTC 的特点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9821)
 
-[22. HLS、HTTP-FLV、RTMP 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259822)
+[22. HLS、HTTP-FLV、RTMP 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9822)
 
-[23. CDN 在直播中的作用?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259823)
+[23. CDN 在直播中的作用?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9823)
 
-[24. 什么是码率自适应(ABR)?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259824)
+[24. 什么是码率自适应(ABR)?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9824)
 
-[25. 什么是首屏时间? 如何优化?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259825)
+[25. 什么是首屏时间? 如何优化?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9825)
 
-[26. 什么是直播延迟? 如何降低延迟?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259826)
+[26. 什么是直播延迟? 如何降低延迟?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9826)
 
-[27. 什么是秒开? 如何实现?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259827)
+[27. 什么是秒开? 如何实现?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9827)
 
-[28. 什么是卡顿率? 如何降低卡顿率?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259828)
+[28. 什么是卡顿率? 如何降低卡顿率?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9828)
 
-[29. 什么是 P2P 直播? 有什么优缺点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259829)
+[29. 什么是 P2P 直播? 有什么优缺点?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9829)
 
-[30. 视频播放器的缓冲策略?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259830)
+[30. 视频播放器的缓冲策略?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9830)
 
-[31. 音画不同步的原因? 如何解决?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259831)
+[31. 音画不同步的原因? 如何解决?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9831)
 
-[32. 常见的音视频编码格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259832)
+[32. 常见的音视频编码格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9832)
 
-[33. CBR 和 VBR 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259833)
+[33. CBR 和 VBR 的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9833)
 
-[34. 关键帧、非关键帧的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259834)
+[34. 关键帧、非关键帧的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9834)
 
-[35. I 帧、P 帧、B 帧的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259835)
+[35. I 帧、P 帧、B 帧的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9835)
 
-[36. GOP 长度对视频的影响?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259836)
+[36. GOP 长度对视频的影响?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9836)
 
-[37. H.264 编码过程?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259837)
+[37. H.264 编码过程?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9837)
 
-[38. H.264 解码过程?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259838)
+[38. H.264 解码过程?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9838)
 
-[39. H.264 码流结构?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259839)
+[39. H.264 码流结构?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9839)
 
-[40. SPS、PPS 的作用?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259840)
+[40. SPS、PPS 的作用?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9840)
 
-[41. SEI 的作用?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259841)
+[41. SEI 的作用?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9841)
 
-[42. H.264 的熵编码方式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259842)
+[42. H.264 的熵编码方式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9842)
 
-[43. H.265 相比 H.264 的优势?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259843)
+[43. H.265 相比 H.264 的优势?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9843)
 
-[44. 常见的音频编码方式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259844)
+[44. 常见的音频编码方式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9844)
 
-[45. 采样率、码率、比特深度的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259845)
+[45. 采样率、码率、比特深度的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9845)
 
-[46. 常见的音频封装格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259846)
+[46. 常见的音频封装格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9846)
 
-[47. PCM 编码方式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259847)
+[47. PCM 编码方式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9847)
 
-[48. AAC 的编码原理?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259848)
+[48. AAC 的编码原理?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9848)
 
-[49. 什么是声道?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259849)
+[49. 什么是声道?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9849)
 
-[50. 单声道、双声道、环绕声的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259850)
+[50. 单声道、双声道、环绕声的区别?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9850)
 
-[51. 什么是 GOP?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259851)
+[51. 什么是 GOP?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9851)
 
-[52. 音频测试的测试点, 音频时延如何测试?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259852)
+[52. 音频测试的测试点, 音频时延如何测试?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9852)
 
-[53. 美颜的实现原理，具体实现步骤?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259853)
+[53. 美颜的实现原理，具体实现步骤?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9853)
 
-[54. 如何直播 APP 抓包过来的文件，如何过滤上行，下行，总码率?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259854)
+[54. 如何直播 APP 抓包过来的文件，如何过滤上行，下行，总码率?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9854)
 
-[55. 如何测试一个美颜挂件?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259855)
+[55. 如何测试一个美颜挂件?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9855)
 
-[56. 为什么要用 FLV?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259856)
+[56. 为什么要用 FLV?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9856)
 
-[57. 如何测试一个美颜挂件?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259857)
+[57. 如何测试一个美颜挂件?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9857)
 
-[58. 平常的视频格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259858)
+[58. 平常的视频格式?](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9858)
 
-[59. 何为 Homebrew？你用它安装过什么？常用命令有哪些？](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259859)
+[59. 何为 Homebrew？你用它安装过什么？常用命令有哪些？](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9859)
 
-[60. RTMP、HLS 协议各自的默认端口号是？](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions%23%25E9%259D%25A2%25E8%25AF%2595%25E9%25A2%259860)
+[60. RTMP、HLS 协议各自的默认端口号是？](https://github.com/0voice/awesome_audio_video_learning/tree/main/interview_questions#%E9%9D%A2%E8%AF%95%E9%A2%9860)
 
 
 ---
